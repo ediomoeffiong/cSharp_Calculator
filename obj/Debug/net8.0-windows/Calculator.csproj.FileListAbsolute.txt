@@ -1,0 +1,35 @@
+C:\Users\10\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\10\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\10\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\10\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\10\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\10\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.Up2Date
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Covenant\Desktop\New folder\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll

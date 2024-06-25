@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R82RxjwUPfbsNj9z4pJVcrhPhJ3aI831pVWlGaJ2vck+nGMOzNlop0F1RcPr6fYFTjkmVpvpa8aw0yWFF/2vQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Covenant\\Desktop\\C#\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Covenant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
